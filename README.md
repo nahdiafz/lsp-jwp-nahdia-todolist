@@ -12,16 +12,14 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian
 
 ## Struktur Folder
 todolist/
-│
-├── index.php → halaman utama
-├── data.php → logika aplikasi (session & aksi)
-├── style.css → styling UI
-│
-├── views/ → komponen tampilan
-│ ├── header.php → bagian <head> dan pembuka body
-│ ├── footer.php → script + penutup body
-│ ├── stat.php → statistik dan form tambah
-│ └── list.php → daftar tugas & modal edit
+- index.php → halaman utama
+- data.php → logika aplikasi (session & aksi)
+- style.css → styling UI
+- views/ → komponen tampilan
+  - header.php → bagian <head> dan pembuka body
+  - footer.php → script + penutup body
+  - stat.php → statistik dan form tambah
+  - list.php → daftar tugas & modal edit
 
 ## Cara Menjalankan
 1. Clone repository ini
