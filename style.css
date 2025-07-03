@@ -1,0 +1,34 @@
+body {
+    background: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+.todo-item:hover {
+    background-color: #f1f5ff;
+}
+
+.strike {
+    text-decoration: line-through;
+    color: #888;
+}
+
+.card h3 {
+    margin: 0;
+}
+
+.card-body {
+    padding: 1rem 1.25rem;
+}
+
+.progress {
+    background-color: #e9ecef;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.badge {
+    font-size: 0.8rem;
+    vertical-align: middle;
+    margin-left: 0.5rem;
+}
