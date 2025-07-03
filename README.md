@@ -12,6 +12,7 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian
 
 ## Struktur Folder
 todolist/
+- screenshot → screeenshot untuk praktik kelompok 1 dan 2
 - index.php → halaman utama
 - data.php → logika aplikasi (session & aksi)
 - style.css → styling UI
